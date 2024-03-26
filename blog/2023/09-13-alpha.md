@@ -12,7 +12,7 @@ authors:
 ## 开源代码
 我们目前已经将镜像站所使用的前端和后端代码公开在 Gitee 组织 (https://gitee.com/dzm91_hust/) 下，欢迎大家 star🌟！
 
-- 前端代码：<https://gitee.com/dzm91_hust/hust-mirrors>
+- 前端代码：<https://github.com/hust-open-atom-club/hust-mirrors/tree/master>
 - 后端代码：<https://gitee.com/dzm91_hust/tunasync>
 - 快速换源工具：<https://gitee.com/dzm91_hust/hustmirror-cli>
 
